@@ -1,7 +1,5 @@
 comitado por brunossousa
 agora sim
-<<<<<<< HEAD
 antes do rebase
-=======
 teste com rebase
->>>>>>> teste com rebase
+
