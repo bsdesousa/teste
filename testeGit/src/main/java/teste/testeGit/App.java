@@ -13,6 +13,7 @@ public class App
         System.out.println("commit 3");
         System.out.println("commit 2");
         System.out.println("commit 4");
+        System.out.println("commit 5");
         System.out.println("commit 6");
     }
 }
