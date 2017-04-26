@@ -10,7 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("commit 1");
+<<<<<<< HEAD
         System.out.println("commit 3");
+=======
+>>>>>>> refs/remotes/origin/master
         System.out.println("commit 2");
     }
 }
