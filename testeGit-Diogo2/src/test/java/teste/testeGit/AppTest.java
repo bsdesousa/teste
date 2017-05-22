@@ -20,6 +20,10 @@ public class AppTest
         super( testName );
     }
 
+	public void qualquerCoisaTest(){
+		assertTrue(true);
+	}	
+	
     /**
      * @return the suite of tests being tested
      */
@@ -35,4 +39,6 @@ public class AppTest
     {
         assertTrue( true );
     }
+	
+
 }
