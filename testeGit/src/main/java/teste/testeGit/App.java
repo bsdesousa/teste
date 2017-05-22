@@ -10,6 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Usando o mesclar do git no eclipse");
+
+
+        System.out.println("Clonando");
         
     }
 }
