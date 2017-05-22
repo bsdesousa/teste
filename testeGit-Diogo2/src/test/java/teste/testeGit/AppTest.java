@@ -16,9 +16,9 @@ public class AppTest
      *
      * @param testName name of the test case
      */
-    public AppTest( String testName )
+    public AppTest( String testNeimi )
     {
-        super( testName );
+        super( testNeimi );
     }
 
 	public void qualquerCoisaTest(){
@@ -31,6 +31,11 @@ public class AppTest
     public static Test suite()
     {
         return new TestSuite( AppTest.class );
+    }
+	
+	public void testApp2()
+    {
+        assertTrue( 2==2 );
     }
 
     /**
