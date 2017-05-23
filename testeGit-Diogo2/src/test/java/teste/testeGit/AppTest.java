@@ -20,10 +20,6 @@ public class AppTest
     {
         super( testNeimi );
     }
-
-	public void qualquerCoisaTest(){
-		assertTrue(true);
-	}	
 	
     /**
      * @return the suite of tests being tested
