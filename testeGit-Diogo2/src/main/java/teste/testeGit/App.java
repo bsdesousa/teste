@@ -11,6 +11,10 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Usando o mesclar do git no eclipse");
         System.out.println("Alteração Pizão é o menino dourado");
+		
+		
+		System.out.println("Merge para todos verem");
+		
         
     }
 }
