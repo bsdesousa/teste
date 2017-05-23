@@ -13,5 +13,8 @@ public class App
         System.out.println("Usando o mesclar do git no eclipse");
 
 		System.out.println("Merge para todos verem");
+		
+		
+		/*adicionei um comentário */
     }
 }
